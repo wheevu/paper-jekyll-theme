@@ -23,6 +23,8 @@ This is how to upload the image from the internet!
 This is me testing the image from the internet!
 ![newtest_kitten](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqj2yxv39d6ig%2F53i65lCwpH4FiMXEoZC5C9%2F5a02bf0bcd1c1e3bc0e784167d79a0eb%2Ffree-photo-of-portrait-of-sphynx-cat.jpeg%3Fw%3D755%26h%3D503%26q%3D80&w=1920&q=75)
 
+<!-- this is me uploading the whole image onto the repo-->
+
 This is me testing by uploading from my assets!
 ![asset_kitten](https://wheevu.github.io/paper-jekyll-theme/assets/images/catshehe.png)
 
