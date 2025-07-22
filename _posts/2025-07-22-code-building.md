@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's upload the code lines!"
-description: "Test post for code line uploading"
+description: 'Test post for code line uploading'
 date: 2025-07-22
 tags: [test, style]
 comments: true
@@ -15,9 +15,15 @@ Let's work on it!
 
 ### 01. Hello World in Python
 
-~~~python
+```python
+# "python" is the language you want to use
 print("Hello, World!")
-~~~
+
+
+
+
+# this "wave thingy" lmao
+```
 
 This is the most basic Python command. It prints a string to the console.
 
@@ -25,15 +31,17 @@ This is the most basic Python command. It prints a string to the console.
 
 ### 02. Variables and Data Types in Python
 
-~~~python
-name = "Junhee"
-age = 21
+```python
+name = "Wheevu"
+age = 22
 is_student = True
+is_crazy = False
 
-print(f"My name is {name}, I am {age} years old.")
-~~~
+print(f"My name is {name}, I am {age} years old. I would like to say I ain't freaking crazy, but some would say otherwise.")
+```
 
 In this example:
+
 - `name` is a string
 - `age` is an integer
 - `is_student` is a boolean
