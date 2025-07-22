@@ -20,5 +20,5 @@ This is how to upload the image from the internet!
 
 ![test_kitten](/assets/images/test_kitten.jpeg)
 
-This is how to upload from your assets
+This is how to upload from your assets (your local image)
 
