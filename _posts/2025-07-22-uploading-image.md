@@ -26,4 +26,6 @@ This is me testing the image from the internet!
 This is me testing by uploading from my assets!
 ![asset_kitten](https://wheevu.github.io/paper-jekyll-theme/assets/images/catshehe.png)
 
+![asset_kitten2]({{ site.url }}{{ site.baseurl }}/assets/images/catshehe.png)
+
 This is how to upload from your assets (your local image)
