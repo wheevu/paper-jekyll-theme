@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "Let's upoload the image!"
-description: "Test post for image uploading"
+description: 'Test post for image uploading'
 date: 2025-07-22
 tags: [test, style]
 comments: true
 ---
 
-Below is just about uploading the image
----
+## Below is just about uploading the image
+
 Let's work !
 I will now edit the file!! (With evil stuff!)
-
 
 ## Practice
 
@@ -21,5 +20,6 @@ This is how to upload the image from the internet!
 
 ![test_kitten](https://junhee-lee233.github.io/paper-jekyll-theme/assets/images/test_kitten.jpeg)
 
-This is how to upload from your assets (your local image)
+![newtest_kitten](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqj2yxv39d6ig%2F53i65lCwpH4FiMXEoZC5C9%2F5a02bf0bcd1c1e3bc0e784167d79a0eb%2Ffree-photo-of-portrait-of-sphynx-cat.jpeg%3Fw%3D755%26h%3D503%26q%3D80&w=1920&q=75)
 
+This is how to upload from your assets (your local image)
