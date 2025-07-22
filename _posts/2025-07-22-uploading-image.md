@@ -15,8 +15,10 @@ Let's work !
 ## Practice
 
 ![test_kitten_from_internet](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-\n This is how to upload the image from the internet!
+
+This is how to upload the image from the internet!
 
 ![test_kitten](/assets/images/test_kitten.jpeg)
-\n This is how to upload from your assets
+
+This is how to upload from your assets
 
